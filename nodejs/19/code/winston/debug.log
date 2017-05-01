@@ -1,0 +1,4 @@
+{"level":"info","message":"Got request GET /echo?","timestamp":"2017-05-01T07:19:51.156Z"}
+{"level":"error","message":"Unknown url","timestamp":"2017-05-01T07:19:51.159Z"}
+{"level":"info","message":"Got request GET /echo?","timestamp":"2017-05-01T07:30:42.401Z"}
+{"level":"error","message":"Unknown url","timestamp":"2017-05-01T07:30:42.402Z"}
