@@ -1,0 +1,1 @@
+# Writable поток ответа res, метод pipe
